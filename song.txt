@@ -8,3 +8,5 @@ New couplet
 New couplet in new branch
 
 head commit in feature branch
+
+new commit in feature which conflict with master
